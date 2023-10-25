@@ -4,15 +4,6 @@ import time
 global consolas
 consolas = ""
 
-'''
-And now, a wall of stupid idiots (affectionate) that have did the done that:
-I’m gonna eat your balls. And all of your croutons. Mine now, bitch. - TEMPT8N
-
-
-
-'''
-
-
 def tengine(string="Sample Text", delay=0.05, sleepafter=0, noconsolasnewline=False):
     global consolas
     stringlist = [*string]
